@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033806462367",
+    "project_id": "fir-project-cf513",
+    "storage_bucket": "fir-project-cf513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033806462367:android:2be00ce58f09ab87fc11aa",
+        "android_client_info": {
+          "package_name": "com.example.database_app1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwgQNoXYe_sPpaN6BTppkBbeonFuF0YCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
